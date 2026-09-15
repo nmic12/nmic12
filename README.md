@@ -1,18 +1,56 @@
-<h1 align="center">Hi 👋, I'm Nicolas Michels</h1>
-<h3 align="center">A Computer Science student in PUCRS (Pontifícia Universidade Católica do Rio Grande do Sul) - Brazil</h3>
+<h1 align="center">Hi, I'm Nicolas Michels 👋</h1>
 
-- 🔭 I’m currently working on **a college project**
-
-- 🌱 I’m currently learning **Java**  & **Javascript**
-
-- 📫 How to reach me **nicolas.michels12@gmail.com**
-
-- ⚡ Fun fact **I started coding when i was 12. I used to play a lot of games and eventually would see someone cheating in the game, and that caught my attention, so i started learning C++ to code my own cheats.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nicolas-michels-168199367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas michels" height="30" width="40" /></a>
+<p align="center">
+  Computer Science student at PUCRS, based in Porto Alegre, Brazil.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="center">
+  Interested in software development, low-level programming, Linux systems and computer networks.
+</p>
+
+---
+
+### About me
+
+- 🎓 Computer Science student at PUCRS
+- 💻 Experience with C++, Java, Linux and networking fundamentals
+- 🌐 Currently working with TCP/IP, DNS, SSH, Hyper-V and Ubuntu Server
+- 🧠 Interested in low-level programming, systems and backend development
+- 📚 Currently improving my Java and software engineering skills
+- 🌍 Portuguese native, English advanced (C1) and Spanish advanced
+- 📫 Reach me at: **nicolas.michels12@gmail.com**
+
+---
+
+### Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</p>
+
+---
+
+### Featured projects
+
+- **AssaultCube Internal Tool**  
+  C++ project focused on in-process memory interaction, pointers, offsets, memory read/write and ImGui.
+
+- **General Tree Algorithms**  
+  Academic Java project involving tree structures, traversal, nearest common ancestor, height, leaf counting and algorithm analysis.
+
+- **Flight Management System**  
+  Academic Java project focused on object-oriented design and modeling of airlines, airports, routes and flights.
+
+---
+
+### Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nicolas-michels-168199367">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" alt="LinkedIn"/>
+  </a>
+</p>
